@@ -1,0 +1,118 @@
+{
+  "holidays": {
+    "munkaszuneti": [
+      {
+        "date": "2025. január 1.",
+        "day": "szerda",
+        "name": "Újév első napja"
+      },
+      {
+        "date": "2025. március 15.",
+        "day": "szombat",
+        "name": "1848-as Forradalom ünnepe"
+      },
+      {
+        "date": "2025. április 18.",
+        "day": "péntek",
+        "name": "Nagypéntek"
+      },
+      {
+        "date": "2025. április 21.",
+        "day": "hétfő",
+        "name": "Húsvét hétfő"
+      },
+      {
+        "date": "2025. május 1.",
+        "day": "csütörtök",
+        "name": "Munka ünnep"
+      },
+      {
+        "date": "2025. június 9.",
+        "day": "hétfő",
+        "name": "Pünkösd hétfő"
+      },
+      {
+        "date": "2025. augusztus 20.",
+        "day": "szerda",
+        "name": "Szent István ünnepe"
+      },
+      {
+        "date": "2025. október 23.",
+        "day": "csütörtök",
+        "name": "1956-os Forradalom ünnepe"
+      },
+      {
+        "date": "2025. november 1.",
+        "day": "szombat",
+        "name": "Mindenszentek napja"
+      },
+      {
+        "date": "2025. december 25.",
+        "day": "csütörtök",
+        "name": "Karácsony"
+      },
+      {
+        "date": "2025. december 26.",
+        "day": "péntek",
+        "name": "Karácsony másnapja"
+      }
+    ],
+    "nem_munkaszuneti": [
+      {
+        "date": "2025. január 6.",
+        "day": "hétfő",
+        "name": "Vízkereszt"
+      },
+      {
+        "date": "2025. február 14.",
+        "day": "péntek",
+        "name": "Bálint-nap, Valentin nap"
+      },
+      {
+        "date": "2025. március 8.",
+        "day": "szombat",
+        "name": "Nemzetközi nőnap"
+      },
+      {
+        "date": "2025. május 4.",
+        "day": "vasárnap",
+        "name": "Anyák napja"
+      },
+      {
+        "date": "2025. május 25.",
+        "day": "vasárnap",
+        "name": "Gyermek nap"
+      },
+      {
+        "date": "2025. június 1.",
+        "day": "vasárnap",
+        "name": "Pedagógusnap"
+      },
+      {
+        "date": "2025. június 15.",
+        "day": "vasárnap",
+        "name": "Apák napja"
+      },
+      {
+        "date": "2025. október 31.",
+        "day": "péntek",
+        "name": "Halloween"
+      },
+      {
+        "date": "2025. november 2.",
+        "day": "vasárnap",
+        "name": "Halottak napja"
+      },
+      {
+        "date": "2025. november 19.",
+        "day": "szerda",
+        "name": "Nemzetközi férfinap"
+      },
+      {
+        "date": "2025. december 6.",
+        "day": "szombat",
+        "name": "Mikulás"
+      }
+    ]
+  }
+}
